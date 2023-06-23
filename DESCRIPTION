@@ -1,0 +1,11 @@
+Package: Caconejos
+Type: Package
+Title: Calculadora para la producción de carne de conejos
+Version: 0.1.0
+Author: Ximena Leal
+Maintainer: The package maintainer <drabgc90@gmail.com>
+Description: Hace el cálculo de variables cuantitativas para obtener la rentabilidad de la producción de carne de conejos de la raza California, representados con tablas y gráficas. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
